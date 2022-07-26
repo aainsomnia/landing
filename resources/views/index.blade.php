@@ -69,7 +69,7 @@
     <div class="container-fluid position-relative p-0">
         <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
             <a href="" class="navbar-brand p-0">
-                <h1 class="m-0"><i class="fa fa-user-tie me-2"></i>RumahDika</h1>
+                <h1 class="m-0"><i class="fa fa-user-tie me-2"></i>RumahDika x SkyAccurates</h1>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="fa fa-bars"></span>
@@ -109,8 +109,8 @@
                     <img class="w-100" src="asset_backend/img/carousel-1.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h5 class="text-white text-uppercase mb-3 animated slideInDown">Creative & Innovative</h5>
-                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Creative & Innovative Digital Solution</h1>
+                            <h5 class="text-white text-uppercase mb-3 animated slideInDown">Professional</h5>
+                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Professional</h1>
                             <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
                             <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
                         </div>
@@ -119,9 +119,9 @@
                 <div class="carousel-item">
                     <img class="w-100" src="asset_backend/img/carousel-2.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
-                        <div class="p-3" style="max-width: 900px;">
-                            <h5 class="text-white text-uppercase mb-3 animated slideInDown">Creative & Innovative</h5>
-                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Creative & Innovative Digital Solution</h1>
+                        <div class="p-3" style="max-width: 1200px;">
+                            <h5 class="text-white text-uppercase mb-3 animated slideInDown">Professional & Accountable</h5>
+                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Accountable</h1>
                             <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
                             <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
                         </div>
@@ -374,7 +374,7 @@
                     <div class="position-relative bg-primary rounded h-100 d-flex flex-column align-items-center justify-content-center text-center p-5">
                         <h3 class="text-white mb-3">Call Us For Quote</h3>
                         <p class="text-white mb-3">Clita ipsum magna kasd rebum at ipsum amet dolor justo dolor est magna stet eirmod</p>
-                        <h2 class="text-white mb-0">+012 345 6789</h2>
+                        <h2 class="text-white mb-0">0822-9836-9436</h2>
                     </div>
                 </div>
             </div>
@@ -616,12 +616,14 @@
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                         <img class="img-fluid rounded" src="asset_backend/img/testimonial-1.jpg" style="width: 60px; height: 60px;" >
                         <div class="ps-4">
-                            <h4 class="text-primary mb-1">Client Name</h4>
-                            <small class="text-uppercase">Profession</small>
+                            <h4 class="text-primary mb-1">Arum Puspita Rani</h4>
+                            <small class="text-uppercase">Account Receiveable</small>
                         </div>
                     </div>
                     <div class="pt-4 pb-5 px-5">
-                        Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
+                        Programnya mudah untuk dipelajari, dan sangat simple untuk dikerjakan .
+                        saya menggunakan Webapp buatan mas Dika sudah 2 tahun dan Alhamdulillah lancar.
+                        terimakasih mas Dika
                     </div>
                 </div>
                 <div class="testimonial-item bg-light my-4">
@@ -686,15 +688,15 @@
                             </div>
                         </div>
                         <div class="text-center py-4">
-                            <h4 class="text-primary">Full Name</h4>
-                            <p class="text-uppercase m-0">Designation</p>
+                            <h4 class="text-primary">Dika Aulia Akbar</h4>
+                            <p class="text-uppercase m-0">CEO and Founder</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="asset_backend/img/team-2.jpg" alt="">
+                            <img class="img-fluid w-100" src="asset_backend/img/arum.png" alt="">
                             <div class="team-social">
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-twitter fw-normal"></i></a>
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
@@ -703,7 +705,7 @@
                             </div>
                         </div>
                         <div class="text-center py-4">
-                            <h4 class="text-primary">Full Name</h4>
+                            <h4 class="text-primary">Arum Puspita Rani</h4>
                             <p class="text-uppercase m-0">Designation</p>
                         </div>
                     </div>
@@ -711,7 +713,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="asset_backend/img/team-3.jpg" alt="">
+                            <img class="img-fluid w-100" src="asset_backend/img/arum.png" alt="">
                             <div class="team-social">
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-twitter fw-normal"></i></a>
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
