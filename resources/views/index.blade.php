@@ -398,7 +398,7 @@
                             <small class="text-uppercase">For Small Size Business</small>
                         </div>
                         <div class="p-5 pt-0">
-                            <h1 class="display-5 mb-5">
+                            <h1 class="display-5 mb-3">
                                 <small class="align-top" style="font-size: 15px; line-height: 25px;">Rp</small>6.000.000
                                 {{-- <small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Month</small> --}}
                             </h1>
@@ -425,11 +425,14 @@
                         </div>
                         <div class="p-5 pt-0">
                             <h1 class="display-5 mb-3">
-                                <small class="align-top" style="font-size: 20px; line-height: 45px;">Rp</small>11.000.000
+                                <small class="align-top" style="font-size: 15px; line-height: 25px;">Rp</small>11.000.000
                                 {{-- <small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Month</small> --}}
                             </h1>
                             <div class="d-flex justify-content-between mb-3"><span>HTML5 & CSS3</span><i class="fa fa-check text-primary pt-1"></i></div>
                             <div class="d-flex justify-content-between mb-3"><span>Bootstrap v5</span><i class="fa fa-check text-primary pt-1"></i></div>
+                            <div class="d-flex justify-content-between mb-3"><span>Responsive Layout</span><i class="fa fa-check text-primary pt-1"></i></div>
+                            <div class="d-flex justify-content-between mb-3"><span>Responsive Layout</span><i class="fa fa-check text-primary pt-1"></i></div>
+                            <div class="d-flex justify-content-between mb-3"><span>Responsive Layout</span><i class="fa fa-check text-primary pt-1"></i></div>
                             <div class="d-flex justify-content-between mb-3"><span>Responsive Layout</span><i class="fa fa-check text-primary pt-1"></i></div>
                             <div class="d-flex justify-content-between mb-3"><span>Responsive Layout</span><i class="fa fa-check text-primary pt-1"></i></div>
                             <div class="d-flex justify-content-between mb-3"><span>Responsive Layout</span><i class="fa fa-check text-primary pt-1"></i></div>
@@ -457,7 +460,9 @@
                             <div class="d-flex justify-content-between mb-3"><span>Multi Warehouse</span><i class="fa fa-check text-primary pt-1"></i></div>
                             <div class="d-flex justify-content-between mb-3"><span>Factory Module</span><i class="fa fa-check text-primary pt-1"></i></div>
                             <div class="d-flex justify-content-between mb-3"><span>Responsive Layout</span><i class="fa fa-check text-primary pt-1"></i></div>
-                            <div class="d-flex justify-content-between mb-2"><span>Cross-browser Support</span><i class="fa fa-check text-primary pt-1"></i></div>
+                            <div class="d-flex justify-content-between mb-3"><span>Cross-browser Support</span><i class="fa fa-check text-primary pt-1"></i></div>
+                            <div class="d-flex justify-content-between mb-3"><span>Cross-browser Support</span><i class="fa fa-check text-primary pt-1"></i></div>
+                            <div class="d-flex justify-content-between mb-3"><span>Cross-browser Support</span><i class="fa fa-check text-primary pt-1"></i></div>
                             <a href="" class="btn btn-primary py-2 px-4 mt-4">Order Now</a>
                         </div>
                     </div>
