@@ -11,7 +11,7 @@
     <meta content="Accurate 5 Website" name="description">
 
     <!-- Favicon -->
-    <link href="asset_backend/img/favicon.ico" rel="icon">
+    {{-- <link href="asset_backend/img/favicon.ico" rel="icon"> --}}
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
